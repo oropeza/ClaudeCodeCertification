@@ -8,6 +8,10 @@
 - [Anti-Patterns](Notes/Anti%20Patterns.md) — Common exam anti-patterns and what to avoid in each domain
 - [Few-Shot vs Prompting Strategies](Notes/Few%20Shots%20vs%20Prompting.md) — Decision framework for when to use few-shot examples vs explicit criteria, tool_use, or task decomposition (Domain 4)
 
+
+- Follow Epam Learn course [Claude Certification: Claude Certified Architect – Foundations](https://learn.epam.com/myLearning/path?rootId=35257883)
+
+
 ## External
 - [Certification Preparation Questions](https://epam.sharepoint.com/:t:/r/sites/EPAMEPM-EASEProductivityPlatform/Shared%20Documents/Anthropic%20Claude%20Certification/Certification%20Exam%20Feedback/certification-preparation-questions.md) — Exam insights and community feedback from EPAM Leap (External)
 - [Guide to Preparing for the CCAF](Notes/Guide%20to%20Preparing%20for%20the%20CCAF%20260331.md) — Session preparation guide and study notes
