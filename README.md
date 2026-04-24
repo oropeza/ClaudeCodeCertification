@@ -31,7 +31,15 @@
 ---
 
 ## 💡 Tip
-The most important document you must study top to bottom is the Certification Exam Guide](PDF/Claude+Certified+Architect+–+Foundations+Certification+Exam+Guide.pdf). All answers can be traced and supported by that information.
+The most important document you must study top to bottom is the [Certification Exam Guide](PDF/Claude+Certified+Architect+–+Foundations+Certification+Exam+Guide.pdf). All answers can be traced and supported by that information.
+
+**Recommended study path:**
+
+1. 📖 Read the [Certification Exam Guide](PDF/Claude+Certified+Architect+–+Foundations+Certification+Exam+Guide.pdf) cover to cover — understand all 5 domains and their weights
+2. 🎓 Complete the [Anthropic courses](Anthropic%20Courses/README.md) — build hands-on familiarity with Claude tools and patterns
+3. 📝 Take a [practice exam](Test%20Exam%20Notes/) — identify knowledge gaps per domain
+4. 🔍 Deep-dive your weak domains using the [Quick Study List](Notes/Quick%20Study%20List.md) and [Anti-Patterns](Notes/Anti%20Patterns.md)
+5. 🔄 Repeat practice exams until consistently scoring above 900
 
 ---
 
