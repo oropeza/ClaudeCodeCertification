@@ -15,6 +15,7 @@
 ## External
 - [Certification Preparation Questions](https://epam.sharepoint.com/:t:/r/sites/EPAMEPM-EASEProductivityPlatform/Shared%20Documents/Anthropic%20Claude%20Certification/Certification%20Exam%20Feedback/certification-preparation-questions.md) — Exam insights and community feedback from EPAM Leap (External)
 - [Guide to Preparing for the CCAF](Notes/Guide%20to%20Preparing%20for%20the%20CCAF%20260331.md) — Session preparation guide and study notes
+- [Claude Certification Guide](https://claudecertificationguide.com/learn)
 
 ---
 
